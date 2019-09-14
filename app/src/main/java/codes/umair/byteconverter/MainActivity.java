@@ -35,16 +35,16 @@ public class MainActivity extends AppCompatActivity {
     /*
 
     To convert KB to MB Divide digital value by 1024
-    for example 10000KB / 1024 = 10MB
+    for example 10000KB / 1024 = 9.77 MB
 
      To convert MB to KB Multiply digital value by 1024
-     for example 10KB * 1024 = 10000KB
+     for example 10KB * 1024 = 1024000 KB
 
      To convert MB to GB Divide digital value by 1024
-     for example 1000MB / 1024 = 1GB
+     for example 1000MB / 1024 = 0.98 GB
 
       To convert GB to MB Multiply digital value by 1024
-      for example 1GB * 1024 = 1000MB
+      for example 1GB * 1024 = 1024 MB
 
 
      */
